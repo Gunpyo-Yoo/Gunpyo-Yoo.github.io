@@ -12,10 +12,10 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko_KR"
 title                    : "유건표 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -105,7 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "저는 신입 개발자 입니다."
   location         : "Korea"
-  email            :
+  email            : "rjsvyhot98@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
